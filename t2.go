@@ -8,10 +8,10 @@ import(
 
 
 func t2(){
-	fmt.Println("789")
+	fmt.Println("789-0")
 	shorttest1.test1()
 }
 
 func test2(){
-	fmt.Println("456")
+	fmt.Println("456-0")
 }
